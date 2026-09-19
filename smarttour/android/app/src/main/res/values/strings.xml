@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">smarttour</string>
+    <string name="title_activity_main">smarttour</string>
+    <string name="package_name">com.tripzy.app</string>
+    <string name="custom_url_scheme">com.tripzy.app</string>
+</resources>
